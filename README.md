@@ -1,4 +1,4 @@
-[](/img/pallet-level-ex.jpg)
+![](/img/pallet-level-ex.jpg)
 
 Measures pellet level in pellet tank of your pellet burner! Also it's possible to measure temperatures and other sensor things..
 
@@ -37,6 +37,6 @@ DS18B20 1-Wire Digital Thermometer
 * VCC -> 3V3
 * GND - > G
 
-[](/img/nodemcu_img_1.png)
+![](/img/nodemcu_img_1.png)
 
 
